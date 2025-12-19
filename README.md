@@ -60,7 +60,4 @@ Only I can modify the original code
 If you like this project, please ⭐ star the repository.
 Suggestions and improvements are welcome through issues or pull requests.
 
-
----
-
 ✨ Thanks for checking out my Tic Tac Toe Game!
